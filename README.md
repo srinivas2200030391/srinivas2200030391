@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [kommirisettysrinivas.web.app](https://kommirisettysrinivas.web.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://kommirisettysrinivas.web.app)
 
-- 📝 I regularly write Stories on [https://www.wattpad.com/user/SrinivasKommirisetty](https://www.wattpad.com/user/SrinivasKommirisetty)
+- 📝 I regularly write Stories on [Wattpad](https://www.wattpad.com/user/SrinivasKommirisetty)
 
 - 💬 Ask me about **React Js, Python**
 
