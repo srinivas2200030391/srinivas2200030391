@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kommirisetty Srinivas</h1>
-<h3 align="center">A passionate Full Stack developer, AI Engineer from India</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="130"/>
+</div>
+<h3 align="center">A passionate Full Stack developer, AI Engineer</h3>
 
 - 🔭 I’m currently working on [QuizCraft](quizcraft.web.app)
 
