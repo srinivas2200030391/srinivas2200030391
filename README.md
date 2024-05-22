@@ -4,11 +4,11 @@
 </div>
 <h3 align="center">I'm a passionate Full Stack developer, AI Engineer</h3>
 
-- 🔭 I’m currently working on [QuizCraft](quizcraft.web.app)
+- 🔭 I’m currently working on [QuizCraft](https://quizcraft.web.app/)
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [kommirisettysrinivas.web.app](kommirisettysrinivas.web.app)
+- 👨‍💻 All of my projects are available at [kommirisettysrinivas.web.app](https://kommirisettysrinivas.web.app)
 
 - 📝 I regularly write Stories on [https://www.wattpad.com/user/SrinivasKommirisetty](https://www.wattpad.com/user/SrinivasKommirisetty)
 
