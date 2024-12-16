@@ -36,6 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srinivas2200030391&show_icons=true&locale=en" alt="srinivas2200030391" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivas2200030391&" alt="srinivas2200030391" /></p>
-
-
-make this readme.md file more good
